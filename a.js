@@ -1,1 +1,1 @@
-console.log("asdad  ")
+console.log("asdad  ")console.logb("asdaaa")
